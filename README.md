@@ -8,3 +8,4 @@
 * We feed the algorithm with some objects in specific points of the 4 quadrants.
 * We let our algorithm find the 7 closest known objects to the uknown object, so he can tell us what kind of an object it is.
 * The simple maths and explanation behind the kNN algorithm - https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm.
+* U will need a C++14 or 17 or 20 compiler.
